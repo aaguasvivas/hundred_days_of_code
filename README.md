@@ -11,3 +11,4 @@
 - Day7: Hangman
 - Day8: Caesar Cipher (Function Parameters)
 - Day9: Secret Auction (Dictionaries + Nesting)
+- Day10: Calculator (Functions with Outputs)
