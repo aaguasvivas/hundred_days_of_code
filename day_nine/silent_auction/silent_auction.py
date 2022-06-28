@@ -23,6 +23,7 @@ while not end_of_bid:
     if check_end_of_bids == 'no':
         end_of_bid = True
 
+    # Clear terminal
     os.system('clear')
 
 # Check max
