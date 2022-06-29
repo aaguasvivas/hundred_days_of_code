@@ -12,3 +12,4 @@
 - Day8: Caesar Cipher (Function Parameters)
 - Day9: Secret Auction (Dictionaries + Nesting)
 - Day10: Calculator (Functions with Outputs)
+- Day11: The Blackjack Capstone Project
